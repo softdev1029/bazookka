@@ -11509,7 +11509,7 @@ body:not(.tweak-product-list-show-price) .ProductList .product-price {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-family: omnes-pro;
-	font-size: 16px;
+	font-size: 24px;
 	font-weight: 400;
 	font-style: normal;
 	text-transform: none;
